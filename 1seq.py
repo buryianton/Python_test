@@ -1,8 +1,3 @@
-#Методы list: list.append(x), list.insert(i,x), list.pop([i]), list.copy(), list.count(x)
-#Методы str: s.split(), s.lower(), s.swapcase(), s.isdigit(), s.isalnum()
-#Методы set: set.union(), set.intersection(), set.difference(), set.symmetric_difference(), set.copy()
-#Методы dict: dict.clear(), dict.copy(), dict.keys(), dict.pop(), dict.popitem()
-
 """
 (МОДУЛЬ 1) Создать новый проект, в нем создать модуль 1seq.py. Задание:
 Пользователь вводит количество элементов будущего списка
